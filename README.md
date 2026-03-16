@@ -1,2 +1,19 @@
-# fin-ai-dashboard
-A Real-Time AI Portfolio Dashboard using:  React + TypeScript  FastAPI  WebSockets  PostgreSQL  AI insights  Testing
+# Fin AI Dashboard
+
+Real-time fintech dashboard with AI insights.
+
+## Tech Stack
+
+Frontend
+- React
+- TypeScript
+
+Backend
+- FastAPI
+- WebSockets
+
+Database
+- PostgreSQL
+
+AI
+- LLM integration
